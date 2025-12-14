@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2025-11-12 02:09:41
+最后更新时间：2025-12-14 02:09:30
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 276  | 
+| HOST | 290  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 117191  | 
+| HOST-SUFFIX | 117535  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8079  | 
-| IP6-CIDR | 11962  | 
+| IP-CIDR | 8255  | 
+| IP6-CIDR | 12151  | 
 | USER-AGENT | 65  | 
-| TOTAL | 137588  | 
+| TOTAL | 138311  | 
 
 
 ## QuantumultX 
@@ -381,8 +381,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WoLai.list
